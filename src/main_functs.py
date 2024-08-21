@@ -272,3 +272,7 @@ def RANK_CHECK(Rout='QFILTER', QVAR=[], MAXR=0, MINR=None):
 # Example usage for fixed rank (RANK_FIXED):
 # Assuming 'Routing' is the routing variable, and the rank order questions are in columns Q180_Orderr1 to Q180_Orderr5
 # RANK_CHECK(Rout='Routing', QVAR=['Q180_Orderr1', 'Q180_Orderr2', 'Q180_Orderr3', 'Q180_Orderr4', 'Q180_Orderr5'], MAXR=5)
+
+if __name__ == "__main__":
+    main()
+ 
