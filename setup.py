@@ -14,5 +14,5 @@ setup(
         "Operating System :: OS Independent",
     ],
     install_requires=[],
-    entry_points={"console_scripts": ["dvlib = src.main_functs"]},
+    entry_points={"console_scripts": ["dvlib = src.main_functs:main"]},
 )
