@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="dvlib",
-    version="0.0.2",
+    version="0.0.1",
     author="Cherupally Naveenchandra",
     author_email="cherupallynaveen@gmail.com",
     url="https://github.com/ChandraCherupally/",
